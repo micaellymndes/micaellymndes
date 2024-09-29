@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @micaellymendes
+- 👋 Hi, I’m @micaellymndes
 - 👀 I’m interested in HTML CSS E JS 
 - 😄 Pronouns: ...
   
