@@ -6,3 +6,11 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=micaellymndes&show_icons=true&count_private=true&hide_border=true&title_color=EE82EE&icon_color=ff91a4&text_color=EE82EE&bg_color=000000" alt="Micaelly Mendes github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaellymndes&layout=compact&hide_border=true&title_color=DA70D6&text_color=DA70D6&bg_color=0d1117" />
 </div>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=micaellymndes&bg_color=000000&color=eca7e7&line=ff00ee&point=484747&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=micaellymndes&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
